@@ -1,4 +1,4 @@
-artifact_path: /content/mlruns/1/models/m-881ebf2e938d4d83a6d5f6984693511c/artifacts
+artifact_path: /content/mlruns/1/models/m-669da49605354eba85bcd222ffe61c38/artifacts
 flavors:
   python_function:
     config:
@@ -15,9 +15,9 @@ flavors:
     model_data: data
     pytorch_version: 2.11.0+cu128
 mlflow_version: 3.16.1
-model_id: m-881ebf2e938d4d83a6d5f6984693511c
-model_size_bytes: 2927065
-model_uuid: m-881ebf2e938d4d83a6d5f6984693511c
+model_id: m-669da49605354eba85bcd222ffe61c38
+model_size_bytes: 2140377
+model_uuid: m-669da49605354eba85bcd222ffe61c38
 prompts: null
-run_id: 471f1cc7bcae493a90e1b88d79560243
-utc_time_created: '2026-09-22 12:42:37.723864'
+run_id: 53f3be5732fd4663b9691e10ad7f3304
+utc_time_created: '2026-09-24 18:09:37.804900'
